@@ -1,1 +1,13 @@
 remote_theme: SotiriosVrachas/jekyll-theme-startbootstrap-agency 
+
+title: The Rivers
+description: The Rivers are a groove-driven acapella vocal group based in Oxford
+author: MJP
+
+sass: # Enables the conversion of css/agency.min.scss to  css/agency.min.css
+  style: compressed # Minify css/agency.min.css
+
+collections: # Enables additional data structures 
+  projects: # Enables _projects
+  
+$primary: 0099cc !default;
